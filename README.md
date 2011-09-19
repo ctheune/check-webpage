@@ -1,3 +1,8 @@
+WARNING
+=======
+
+! This version is badly bugged (issue #12) !
+
 check-webpage
 =============
 
